@@ -18,21 +18,21 @@ Just add a link to the css file in your `<head>`:
 Sample markup
 
 ```html
-  <div id="slider" class="hidden"><!-- .hidden prevents from flashing images -->
-      <div>
-        <ul>
-            <li><img src="slider-image.jpg"/></li>
-                             .
-                             .
-                             .
-            <li><img src="slider-image.jpg"/></li>
-        </ul>
-      </div>
-      <div>
-        <h1>...</h1>
-        <p>...</p> 
-      </div>  
-  </div>    
+<div id="slider" class="hidden"><!-- .hidden prevents from flashing images -->
+    <div>
+      <ul>
+        <li><img src="slider-image.jpg"/></li> 
+                          .
+                          .
+                          .
+        <li><img src="slider-image.jpg"/></li>
+      </ul>
+    </div>
+    <div>
+      <h1>...</h1>
+      <p>...</p> 
+    </div>  
+</div>    
 ```
 
 Then, before your closing ```<body>``` tag add:
