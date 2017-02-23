@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>twoRowSliderJS</title>
+
+    <link rel="" href="">
+    
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/two-row-slider.css">
+    
+  </head>
+  <body>
+    <div class="other-content header">
+    </div>  
+    <div id="slider" class="hidden"><!-- hidden prevents from flashing images -->
+      <div>
+        <ul>
+            <li><img src="images/slider-image-1.jpg"/></li>
+            <li><img src="images/slider-image-2.jpg"/></li>
+            <li><img src="images/slider-image-3.jpg"/></li>
+            <li><img src="images/slider-image-9.jpg"/></li>
+            <li><img src="images/slider-image-6.jpg"/></li>
+            <li><img src="images/slider-image-4.jpg"/></li>
+            <li><img src="images/slider-image-5.jpg"/></li>
+            <li><img src="images/slider-image-6.jpg"/></li>
+            <li><img src="images/slider-image-7.jpg"/></li>
+            <li><img src="images/slider-image-8.jpg"/></li>
+            <li><img src="images/slider-image-6.jpg"/></li>
+            <li><img src="images/slider-image-7.jpg"/></li>
+            <li><img src="images/slider-image-8.jpg"/></li>
+            <li><img src="images/slider-image-7.jpg"/></li>
+            <li><img src="images/slider-image-8.jpg"/></li>
+            <li><img src="images/slider-image-6.jpg"/></li>
+        </ul>
+      </div>
+      <div>
+        <h1>Lorem ipsum dolor sit amet consectetuer adipiscing elit</h1>
+        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p> 
+      </div>    
+    </div>
+    <div class="other-content footer">
+    </div>    
+    
+    <script src="scripts/jquery.min.js"></script>
+    <script src="scripts/twoRowSliderJS.js"></script>
+    <script>
+    
+      $("#slider").twoRowSliderJS({
+          motionBlur: true,
+          animationDuration: 280
+      });
+  
+    </script>
+  </body>
+</html>
