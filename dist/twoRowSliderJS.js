@@ -2,7 +2,7 @@
 // =============
 // Author: Alen Egredžija
 // Date: 20/02/2017
-// Website: 
+// Website: https://github.com/EqualString/twoRowSliderJS
 // Description: Makes two row infinite slider with specified markup.
 //              Calculates row width and position.
 //

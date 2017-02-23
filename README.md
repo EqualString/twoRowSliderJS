@@ -3,6 +3,10 @@ twoRowSliderJS
 
 _two rows infinite jQuery slider_
 
+#### Demo
+
+[https://equalstring.github.io/twoRowSliderJS/](https://equalstring.github.io/twoRowSliderJS/)
+
 #### Example usage
 
 Just add a link to the css file in your `<head>`:
