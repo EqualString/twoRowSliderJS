@@ -65,7 +65,7 @@ animationDuration | integer | 330 | Sliding animation speed (ms), range : <150 -
 
 ### Easings
 
-twoRowSliderJS uses jQuery UI animation easing functions. For list and behavior of each easing check [https://api.jqueryui.com/easings/](jQuery UI page).
+twoRowSliderJS uses jQuery UI animation easing functions. For list and behavior of each easing check [https://api.jqueryui.com/easings/](https://equalstring.github.io/twoRowSliderJS/).
 
 #### Browser support
 

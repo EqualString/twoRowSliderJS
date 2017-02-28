@@ -1,14 +1,18 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900&subset=latin-ext");
-
+@import url("https://fonts.googleapis.com/css?family=Rubik:400,900&subset=latin-ext");
 body {
   background: #FFFFFF;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Rubik", sans-serif;
   max-width: 940px;
   margin: 0;
   margin-left: auto;
   margin-right: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 .other-content {
@@ -25,3 +29,5 @@ body {
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsZ0dBQVk7QUFDWixzRkFBWTtBQU1aO0VBQ0Usb0JBQW9CO0VBQ3BCLGlDQUwwQjtFQU0xQixpQkFBaUI7RUFDakIsVUFBVTtFQUNWLGtCQUFrQjtFQUNsQixtQkFBbUI7RUFDbkIsb0NBQW9DO0VBQ3BDLG1DQUFtQztDQUNwQzs7QUFDRDtFQUNFLDJDQWZvQztDQWdCckM7O0FBQ0Q7RUFDRSxvQkFBb0I7RUFDcEIsY0FBYztDQUNmOztBQUNEO0VBQ0UsK0JBcEJVO0VBcUJWLGdDQXJCVTtDQXNCWDs7QUFDRDtFQUNFLDRCQXhCVTtFQXlCViw2QkF6QlU7Q0EwQlgiLCJmaWxlIjoic3R5bGUuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Tb3VyY2UrU2FucytQcm86NDAwLDkwMCZzdWJzZXQ9bGF0aW4tZXh0Jyk7XG5AaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PVJ1YmlrOjQwMCw5MDAmc3Vic2V0PWxhdGluLWV4dCcpO1xuXG4kZm9udF9oOiAnU291cmNlIFNhbnMgUHJvJywgc2Fucy1zZXJpZjtcbiRmb250X3A6ICdSdWJpaycsIHNhbnMtc2VyaWY7XG4kcmFkaXVzOiA1cHg7XG5cbmJvZHkge1xuICBiYWNrZ3JvdW5kOiAjRkZGRkZGO1xuICBmb250LWZhbWlseTogJGZvbnRfcDtcbiAgbWF4LXdpZHRoOiA5NDBweDtcbiAgbWFyZ2luOiAwO1xuICBtYXJnaW4tbGVmdDogYXV0bztcbiAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xuICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDtcbiAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTtcbn1cbmgxe1xuICBmb250LWZhbWlseTogJGZvbnRfaDtcbn1cbi5vdGhlci1jb250ZW50e1xuICBiYWNrZ3JvdW5kOiAjREREREREO1xuICBoZWlnaHQ6IDEwMHB4O1xufVxuLmhlYWRlcntcbiAgYm9yZGVyLWJvdHRvbS1sZWZ0LXJhZGl1czogJHJhZGl1cztcbiAgYm9yZGVyLWJvdHRvbS1yaWdodC1yYWRpdXM6ICRyYWRpdXM7XG59XG4uZm9vdGVye1xuICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiAkcmFkaXVzO1xuICBib3JkZXItdG9wLXJpZ2h0LXJhZGl1czogJHJhZGl1cztcbn1cblxuIl19 */
